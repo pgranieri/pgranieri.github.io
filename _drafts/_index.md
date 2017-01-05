@@ -1,5 +1,4 @@
 ---
-title:  Patrick's Project Page
 layout: default
 ---
 
